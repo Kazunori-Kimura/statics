@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kazunori-Kimura/statics.git"
+  },
   "keywords": [
     "html",
     "ejs"
@@ -15,6 +18,10 @@
   "license": "BSD",
   "dependencies": {
     "connect": "~2.7.11",
-    "ejs": "~0.8.4"
-  }
+    "ejs": "~0.8.4",
+    "cli-color": "~0.2.2"
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "3acca77f379328f71da921b930ff7f68803a5de4",
+  "devDependencies": {}
 }
