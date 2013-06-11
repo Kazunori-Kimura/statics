@@ -1,0 +1,20 @@
+{
+  "name": "statics",
+  "version": "0.0.0",
+  "description": "generate static HTML from ejs files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "html",
+    "ejs"
+  ],
+  "author": "kazunori.kimura",
+  "license": "BSD",
+  "dependencies": {
+    "connect": "~2.7.11",
+    "ejs": "~0.8.4"
+  }
+}
