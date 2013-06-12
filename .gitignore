@@ -17,3 +17,6 @@ node_modules
 memo*.md
 temp*
 
+_ejs/*
+_html/*
+

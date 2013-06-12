@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Kazunori-Kimura/statics.git"
+    "url": "https://github.com/Kazunori-Kimura/statics.git"
   },
   "keywords": [
     "html",
@@ -17,7 +17,6 @@
   "author": "kazunori.kimura",
   "license": "BSD",
   "dependencies": {
-    "connect": "~2.7.11",
     "ejs": "~0.8.4",
     "cli-color": "~0.2.2"
   },
